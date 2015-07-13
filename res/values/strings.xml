@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DynamicButtons</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="add">Add Button</string>
+<string name="remove">Remove Button</string>
+<string name="textView1"> </string>
+ <string name="btnSelectPhoto">Select Photo</string>
+    <string name="viewImage"></string>
+    <string name="imageView"></string>
+    
+</resources>
