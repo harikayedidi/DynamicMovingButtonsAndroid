@@ -1,6 +1,6 @@
 # DynamicMovingButtonsAndroid
 
-This is an app created by me for my professor who is a Psychologist, for his survey on Human Behavior.
+This is an app created by me for Psychology professor, for his survey on Human Behavior.
 
 With this code you can:
 
